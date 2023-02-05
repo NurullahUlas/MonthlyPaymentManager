@@ -1,0 +1,29 @@
+.bg-dark {
+    background-color: #0F0F0F;
+}
+
+.text-white {
+    color: white;
+}
+.text-grey {
+    color: #a7a7a7;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.small-text {
+    font-size: 1rem;
+}
+
+.btn {
+    height: 2.5rem;
+    width: 3.5rem;
+    border-radius: 5px;
+    /* margin: 1.25rem; */
+}
+
+.container {
+    max-width: 1100px;
+}
